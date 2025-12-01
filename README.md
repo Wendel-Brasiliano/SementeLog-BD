@@ -2,8 +2,8 @@
 
 > **Projeto Integrador (PI) - Desenvolvimento de Sistemas**
 >
-> **Instituição:** [Coloque o Nome da Sua Faculdade Aqui]
-> **Contexto:** Instituto Agronômico de Pernambuco (IPA)
+> **Instituição:** FACULDADE SENAC-PE
+> **PROJETO INTEGRADOR:**Instituto Agronômico de Pernambuco (IPA)
 > **Abrangência:** Estado de Pernambuco
 
 ### 👨‍💻 Equipe de Desenvolvimento:
