@@ -2,8 +2,16 @@
 
 > **Projeto Integrador (PI) - Desenvolvimento de Sistemas**
 >
+> **Instituição:** [Coloque o Nome da Sua Faculdade Aqui]
 > **Contexto:** Instituto Agronômico de Pernambuco (IPA)
 > **Abrangência:** Estado de Pernambuco
+
+### 👨‍💻 Equipe de Desenvolvimento:
+* **Wendel Brasiliano**
+* **Marcelo Barbosa**
+* **Lucas**
+* **Caio**
+* **Isack**
 
 ---
 
