@@ -49,7 +49,7 @@ Abaixo a lista dos scripts desenvolvidos para o projeto, presentes neste reposit
 
 O banco conta com 12 tabelas normalizadas para atender a logística do estado.
 
-> *[DICA: Apague esta linha e arraste o arquivo 'Diagrama atualizadoSementeLog.png' aqui para a imagem aparecer]*
+> **[Vou add as imagens do MER e do Diagrama]**
 
 ---
 
