@@ -3,8 +3,8 @@
 > **Projeto Integrador (PI) - Desenvolvimento de Sistemas**
 >
 > **Instituição:** FACULDADE SENAC-PE
-> **PROJETO INTEGRADOR:**Instituto Agronômico de Pernambuco (IPA)
-> **Abrangência:** Estado de Pernambuco
+> **PROJETO INTEGRADOR:**Instituto Agronômico de Pernambuco (IPA)**
+
 
 ### 👨‍💻 Equipe de Desenvolvimento:
 * **Wendel Brasiliano**
