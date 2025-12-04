@@ -52,7 +52,9 @@ Abaixo a lista dos scripts desenvolvidos para o projeto, presentes neste reposit
 
 <img width="1353" height="886" alt="Diagrama atualizadoSementeLog" src="https://github.com/user-attachments/assets/e91a4cfd-bee0-4e58-8b2f-78a6fc8cef72" />
 
-O banco conta com 12 tabelas normalizadas para atender a logística do estado.
+
+
+O banco conta com 12 tabelas normalizadas para atender a logística do Instituto Agronômico de Pernambuco (IPA).
 
 
 ---
