@@ -47,8 +47,9 @@ Abaixo a lista dos scripts desenvolvidos para o projeto, presentes neste reposit
 
 ## 3. 🗺️ Modelagem
 
+![MER_SementeLog](https://github.com/user-attachments/assets/7fa2a1b4-8ea1-40cd-9ad4-f1c198fd609e)
 
-![MER_SementeLog](https://github.com/user-attachments/assets/7873c030-0411-4fda-967b-2ae543837806)
+
 <img width="1353" height="886" alt="Diagrama atualizadoSementeLog" src="https://github.com/user-attachments/assets/e91a4cfd-bee0-4e58-8b2f-78a6fc8cef72" />
 
 O banco conta com 12 tabelas normalizadas para atender a logística do estado.
