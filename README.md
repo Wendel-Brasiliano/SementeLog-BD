@@ -6,12 +6,8 @@
 > **PROJETO INTEGRADOR:**Instituto Agronômico de Pernambuco (IPA)**
 
 
-### 👨‍💻 Equipe de Desenvolvimento:
+### 👨‍💻Desenvolvimento:
 * **Wendel Brasiliano**
-* **Marcelo Barbosa**
-* **Lucas**
-* **Caio**
-* **Isack**
 
 ---
 
