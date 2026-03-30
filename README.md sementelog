@@ -1,0 +1,43 @@
+# 🌱 SementeLog-BD: Sistema de Gestão de Suprimentos (IPA/PE)
+
+Este repositório contém a modelagem e implementação do banco de dados para o sistema **SementeLog**, desenvolvido para o Instituto Agronômico de Pernambuco (IPA). O projeto foca na rastreabilidade e controle de estoque de sementes e insumos distribuídos em todo o estado.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Modeling-MER%20%2F%20DER-blue?style=for-the-badge" />
+</div>
+
+---
+
+### 📑 Desafio de Dados
+O sistema precisava gerenciar múltiplos armazéns, lotes de sementes com datas de validade rigorosas e o histórico de distribuição para produtores rurais, garantindo a integridade referencial e evitando duplicidade de estoques.
+
+---
+
+### 📐 Arquitetura do Banco de Dados
+
+A solução foi estruturada em três fases de design de dados:
+
+1. **Modelo Conceitual (MER):** Identificação das entidades principais (Sementes, Lotes, Armazéns, Produtores) e seus relacionamentos.
+2. **Modelo Lógico (DER):** Definição de chaves primárias (PK), chaves estrangeiras (FK) e normalização até a **3ª Forma Normal (3FN)** para eliminar redundâncias.
+3. **Modelo Físico:** Scripts DDL para criação de tabelas, constraints de integridade e índices para otimização de consultas.
+
+---
+
+### 🛠️ Tecnologias e Habilidades
+
+* **SGBD:** PostgreSQL / MySQL.
+* **Modelagem:** BrModelo / Lucidchart (Diagramas de Entidade e Relacionamento).
+* **SQL Avançado:** Joins complexos, Triggers para controle de estoque e Views para relatórios gerenciais.
+
+---
+
+### 📂 Estrutura do Repositório
+* `/docs`: Contém os diagramas de modelagem (Imagem do MER/DER).
+* `/scripts`: Scripts SQL de criação das tabelas e inserção de dados de teste.
+
+---
+
+### 👨‍💻 Autor
+**Wendel Brasiliano**
+*Focado em Arquitetura de Dados e Soluções Backend.*
